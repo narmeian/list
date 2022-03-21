@@ -5,7 +5,7 @@ A small project to demonstrate front and back end communication and web page ren
 Node, Express, Bootstrap, jQuery.
 
 ## To run
-Install the above libraries in the folder with NPM install.  jQuery is a link in the html file, so is not needed to install seperately.
+NPM install.
 
 Requires Postgres database **'list'** in current state, modify db.js file according to local credentials.
 
